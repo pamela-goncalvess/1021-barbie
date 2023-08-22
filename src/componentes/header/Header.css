@@ -17,3 +17,6 @@ header nav ul{
     list-style: none;
     gap: 15px;
 }
+h1{
+    color: rgb(253,0,211);
+}
